@@ -50,4 +50,11 @@ Byte Harvest is an innovative productivity application that combines the proven 
 - Maggie Kuffskie: Systems Developer
 - Leilani Hasson Valdes-Sada: Game World Developer
 
+## Credits & Acknowledgements 
+- Game art/tiles: https://github.com/clear-code-projects/PyDew-Valley.git
+- Development Tutorials: https://www.youtube.com/watch?v=R9apl6B_ZgI&list=LL&index=65&t=17884s
+- Built using PyGame library
+
+  
+
 
